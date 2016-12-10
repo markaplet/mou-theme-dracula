@@ -13,3 +13,5 @@ Copy the Dracula.txt file into your Mou Themes directory.
 `~/Library/Application Support/Mou/Themes`
 
 Open Mou's Preferences and navigate to the Themes tab. Select Dracula in the Use Theme: dropdown. If Mou was open when you copied the theme files, you may need to hit the Reload button.
+
+![image](https://raw.githubusercontent.com/markaplet/mou-theme-dracula/master/screenshots/mou-prefs.png)
