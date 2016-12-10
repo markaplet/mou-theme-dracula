@@ -8,7 +8,7 @@ Drcula is a dark theme for the awesome [Mou](http://25.io/mou/) markdown editor.
 
 ## Installation
 
-Copy the Dracula.txt file into your Mou Themes directory.
+Copy the **Dracula.txt** and **Dracula+.txt** file into your Mou Themes directory.
 
 `~/Library/Application Support/Mou/Themes`
 
