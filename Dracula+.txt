@@ -72,7 +72,7 @@ CODE
 foreground: 62f591
 
 VERBATIM
-foreground: bfbfbf
+foreground: 62f591
 
 HTML_ENTITY
 foreground: fd94d0
